@@ -1,9 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif">
 </div>
-<div id="skills" align="left">
-    <img src="https://www.ciberc.com/wp-content/uploads/2021/10/Swiss-Army-Knife-by-Seth-Eckert.gif">
-</div>
+
+<a href="https://lh6.googleusercontent.com/5q-wzy63y5CnDMQlfdlqWYot2GlN0SpzAk9NfxQhCg2vzLBJkRtlbD2En1a0HS5kZ5E=w2400?source=screenshot.guru"> <img src="https://lh6.googleusercontent.com/5q-wzy63y5CnDMQlfdlqWYot2GlN0SpzAk9NfxQhCg2vzLBJkRtlbD2En1a0HS5kZ5E=w1200-h630-p" width="150" height="112" /> </a>
 
 
 
