@@ -1,6 +1,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif">
 </div>
+<div id="skills" align="left">
+    <img src="https://www.ciberc.com/wp-content/uploads/2021/10/Swiss-Army-Knife-by-Seth-Eckert.gif">
+</div>
+
+
+
 ### Hi there 👋
 
 <!--
