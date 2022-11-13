@@ -1,5 +1,7 @@
 <H2 align="center"> Elbio Peña - Data Analyst </H3>
+<p align="center">
 <img src="https://user-images.githubusercontent.com/110791809/201522585-06804049-f418-441a-a73a-847abc462f73.gif" width="80" height="43"><img src="https://user-images.githubusercontent.com/110791809/201525256-ebe32cf1-b1e0-4161-9611-53b853395c38.jpg"><img src="https://user-images.githubusercontent.com/110791809/201522585-06804049-f418-441a-a73a-847abc462f73.gif" width="80" height="43" >
+</p>
 
 ---
 
