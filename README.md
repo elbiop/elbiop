@@ -6,9 +6,12 @@
 <p>
   <img src="https://user-images.githubusercontent.com/110791809/201526502-18edea89-bfe7-4843-9089-58c1c268a256.png" width="60" height="60" >
   <img src="https://user-images.githubusercontent.com/110791809/201909538-a15907e7-a591-44dd-be21-af7e417fed7e.jpg" width=40 height=60>
-  <img src="https://user-images.githubusercontent.com/110791809/201910210-72fda730-42e3-4683-ba20-14c1e4096a9f.png" width=60 height=60>
   <img src="https://user-images.githubusercontent.com/110791809/201913623-37f6fdbf-8401-4c8d-9bf7-2c8cab3cd043.png" width=40 height=60>
-  <img src="" width=40 height=60>
+  <img src="https://user-images.githubusercontent.com/110791809/201910210-72fda730-42e3-4683-ba20-14c1e4096a9f.png" width=60 height=60>
+  <img src="https://user-images.githubusercontent.com/110791809/201928752-51206dbb-608c-4474-a15d-52fb595f5f9a.png" width=40 height=60>
+  <img src="https://user-images.githubusercontent.com/110791809/201928849-4fa50b76-37da-4c83-89dc-da0e959112ef.png" width=40 height=60>
+  <img src="https://user-images.githubusercontent.com/110791809/201928917-9f346895-3cbf-4c14-bad6-4aaac3ca6122.png" width=40 height=60>
+  <img src="https://user-images.githubusercontent.com/110791809/201929062-d01c4c35-24b0-4b64-b869-b586fb10e9f7.png" width=40 height=60>
   <img src="" width=40 height=60>
   <img src="" width=40 height=60>
   <img src="" width=40 height=60>
