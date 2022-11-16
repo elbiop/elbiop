@@ -1,6 +1,6 @@
 <H2 align="center"> Elbio Peña - Data Analyst </H3>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/110791809/201522585-06804049-f418-441a-a73a-847abc462f73.gif" width="80" height="43"><img src="https://user-images.githubusercontent.com/110791809/201525256-ebe32cf1-b1e0-4161-9611-53b853395c38.jpg"><img src="https://user-images.githubusercontent.com/110791809/201522585-06804049-f418-441a-a73a-847abc462f73.gif" width="80" height="43" >
+<img src="https://user-images.githubusercontent.com/110791809/201522585-06804049-f418-441a-a73a-847abc462f73.gif" width="80" height="43"> <img src="https://user-images.githubusercontent.com/110791809/201525256-ebe32cf1-b1e0-4161-9611-53b853395c38.jpg"><img src="https://user-images.githubusercontent.com/110791809/201522585-06804049-f418-441a-a73a-847abc462f73.gif" width="80" height="43" >
 </p>
 
 <p>
@@ -47,7 +47,7 @@
   <img alt="Blender" src="https://user-images.githubusercontent.com/110791809/202286626-385c2f1f-e04b-47d7-8c45-059731050bd6.png" width=55 height=60>
   <img alt="premierepro" src="https://user-images.githubusercontent.com/110791809/202286686-0e41453c-bd5b-4b5c-9aa3-9d35753985f0.png" width=50 height=55>
   <img alt="Solidworks" src="https://user-images.githubusercontent.com/110791809/202288776-f9feb07d-75ac-4db0-865b-d80d1bfcf158.jpg" width=50 height=55>
-  <img alt="texmaker" src="https://user-images.githubusercontent.com/110791809/202204076-feba5f4b-9811-45a0-abe5-58812460e190.png" width=55 height=55>
+  <img alt="G-Earth" src="https://user-images.githubusercontent.com/110791809/202292972-5431af0b-afb4-4d3a-bab3-bef927f4d473.png" width=50 height=55>
 </p>
 <hr size="3" nonshade>
 <hline>
