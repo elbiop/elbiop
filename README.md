@@ -20,23 +20,23 @@
   <img alt="numpy" src="https://user-images.githubusercontent.com/110791809/202039116-3f118ad8-332f-4252-940e-aa4e8509412d.png" width=50 height=60>
   <img alt="Scipy" src="https://user-images.githubusercontent.com/110791809/202037964-924fd406-456c-45fa-b191-26c486abdf72.jpg" width=50 height=60>
   <img alt="pandas" src="https://user-images.githubusercontent.com/110791809/202039797-8e4b398e-c508-4631-9f67-70bda7354c19.png" width=50 height=60>
+  <img alt="Scikit-L" src="https://user-images.githubusercontent.com/110791809/202054116-2285628c-5001-4f61-99b9-c3ed0c61e749.png" width=70 height=40>
   <img alt="plt" src="https://user-images.githubusercontent.com/110791809/202041058-b746466c-efe7-45b8-8f84-2831d1e66f94.png" width=50 height=60>
   <img al="seaborn" src="https://user-images.githubusercontent.com/110791809/202046527-074d88e8-5745-4e58-9887-ae1ad40c1719.png" width=65 height=60>
   <img alt="Geopandas" src="https://user-images.githubusercontent.com/110791809/202053294-715820fb-1bd2-4268-8146-b04ecdb6cc6a.png" width=60 height=60>
-  <img alt="Scikit-L" src="https://user-images.githubusercontent.com/110791809/202054116-2285628c-5001-4f61-99b9-c3ed0c61e749.png" width=70 height=40>
 </p>
 <p>
   <img alt="R" src="https://user-images.githubusercontent.com/110791809/201529183-9d7b3951-0d92-42f9-9430-f1a9cda00b08.jpg" width="55" height="55">
   <img alt="<--" src="https://user-images.githubusercontent.com/110791809/202056244-49761759-68ed-4cb5-a925-21076212d254.jpg" width=80 height=60>
-  <img alt="R-libraries" src="https://user-images.githubusercontent.com/110791809/202169859-8688a29c-4831-4cbe-adcb-c1d963cb16a0.png" width=425 height=60>
+  <img alt="R-libraries" src="https://user-images.githubusercontent.com/110791809/202172555-9073f91f-ed88-4f99-b04d-3a9a13805e45.png" width=425 height=60>
 </p>
 <p>
-  <img alt="" src="https://user-images.githubusercontent.com/110791809/201528252-f5feb8fe-b056-44a7-b386-ff0c5289705b.png" width="55" height="60">
+  <img alt="SQL" src="https://user-images.githubusercontent.com/110791809/202178638-fa9d9b94-26ac-4a9a-8ae4-452c9b11fafa.png" width="60" height="60">
   <img alt="<--" src="https://user-images.githubusercontent.com/110791809/202056244-49761759-68ed-4cb5-a925-21076212d254.jpg" width=80 height=60>
-  <img src="" width=50 height=60>
-  <img src="" width=50 height=60>
-  <img src="" width=50 height=60>
-  <img src="" width=50 height=60>
+  <img alt="Mysql" src="https://user-images.githubusercontent.com/110791809/202176175-5480fe6f-407c-4b5d-86f4-5bd71cec4543.png" width=55 height=53>
+  <img alt="Sqlite" src="https://user-images.githubusercontent.com/110791809/202175610-5f5c5765-f0ac-4cbf-a6db-20164b34a7bb.png" width=55 height=55>
+  <img alt="Bigquery" src="https://user-images.githubusercontent.com/110791809/202177357-ed78991c-41e4-44f7-969d-b49587860bb8.png" width=50 height=55>
+  <img alt="" src="" width=50 height=60>
 </p>
 <p>
   <img src="" width=50 height=60>
