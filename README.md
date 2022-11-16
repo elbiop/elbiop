@@ -41,12 +41,12 @@
 <p>
   <img alt= "presentation" src="https://user-images.githubusercontent.com/110791809/202204264-68025708-8a2c-4464-84af-5ab6614fd362.png" width=60 height=60>
   <img alt="<--" src="https://user-images.githubusercontent.com/110791809/202056244-49761759-68ed-4cb5-a925-21076212d254.jpg" width=80 height=60>
-  <img alt="tableau" src="https://user-images.githubusercontent.com/110791809/202204387-dff64b19-4dc0-48bd-b6ec-624a6d449e2e.png" width=55 height=55>
-  <img alt="Inkscape" src="" width=50 height=60>
-  <img alt="photoshop" src="" width=50 height=60>
-  <img alt="Blender" src="" width=50 height=60>
-  <img alt="premierepro" src="" width=50 height=60>
-  <img alt="Solidworks" src="" width=50 height=60>
+  <img alt="tableau" src="https://user-images.githubusercontent.com/110791809/202204387-dff64b19-4dc0-48bd-b6ec-624a6d449e2e.png" width=50 height=50>
+  <img alt="Inkscape" src="https://user-images.githubusercontent.com/110791809/202286452-cde5249f-398e-4f38-9931-c7467b01cf22.png" width=55 height=55>
+  <img alt="photoshop" src="https://user-images.githubusercontent.com/110791809/202286501-638ddd5d-5ccf-43f5-bb3e-a4b681284df4.png" width=55 height=55>
+  <img alt="Blender" src="https://user-images.githubusercontent.com/110791809/202286626-385c2f1f-e04b-47d7-8c45-059731050bd6.png" width=55 height=60>
+  <img alt="premierepro" src="https://user-images.githubusercontent.com/110791809/202286686-0e41453c-bd5b-4b5c-9aa3-9d35753985f0.png" width=50 height=55>
+  <img alt="Solidworks" src="https://user-images.githubusercontent.com/110791809/202288776-f9feb07d-75ac-4db0-865b-d80d1bfcf158.jpg" width=50 height=55>
   <img alt="texmaker" src="https://user-images.githubusercontent.com/110791809/202204076-feba5f4b-9811-45a0-abe5-58812460e190.png" width=55 height=55>
 </p>
 <hr size="3" nonshade>
