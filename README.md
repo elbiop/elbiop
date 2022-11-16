@@ -36,14 +36,18 @@
   <img alt="Mysql" src="https://user-images.githubusercontent.com/110791809/202176175-5480fe6f-407c-4b5d-86f4-5bd71cec4543.png" width=55 height=53>
   <img alt="Sqlite" src="https://user-images.githubusercontent.com/110791809/202175610-5f5c5765-f0ac-4cbf-a6db-20164b34a7bb.png" width=55 height=55>
   <img alt="Bigquery" src="https://user-images.githubusercontent.com/110791809/202177357-ed78991c-41e4-44f7-969d-b49587860bb8.png" width=50 height=55>
-  <img alt="" src="" width=50 height=60>
+  <img alt="ms-acess" src="" width=50 height=60>
 </p>
 <p>
-  <img src="" width=50 height=60>
+  <img alt= "presentation" src="https://user-images.githubusercontent.com/110791809/202204264-68025708-8a2c-4464-84af-5ab6614fd362.png" width=60 height=60>
   <img alt="<--" src="https://user-images.githubusercontent.com/110791809/202056244-49761759-68ed-4cb5-a925-21076212d254.jpg" width=80 height=60>
-  <img src="" width=50 height=60>
-  <img src="" width=50 height=60>
-  <img src="" width=50 height=60>
+  <img alt="tableau" src="https://user-images.githubusercontent.com/110791809/202204387-dff64b19-4dc0-48bd-b6ec-624a6d449e2e.png" width=55 height=55>
+  <img alt="Inkscape" src="" width=50 height=60>
+  <img alt="photoshop" src="" width=50 height=60>
+  <img alt="Blender" src="" width=50 height=60>
+  <img alt="premierepro" src="" width=50 height=60>
+  <img alt="Solidworks" src="" width=50 height=60>
+  <img alt="texmaker" src="https://user-images.githubusercontent.com/110791809/202204076-feba5f4b-9811-45a0-abe5-58812460e190.png" width=55 height=55>
 </p>
 <hr size="3" nonshade>
 <hline>
