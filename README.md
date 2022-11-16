@@ -1,8 +1,10 @@
 <H2 align="center"> Elbio Peña - Data Analyst </H3>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/110791809/201522585-06804049-f418-441a-a73a-847abc462f73.gif" width="80" height="43"> <img src="https://user-images.githubusercontent.com/110791809/201525256-ebe32cf1-b1e0-4161-9611-53b853395c38.jpg"><img src="https://user-images.githubusercontent.com/110791809/201522585-06804049-f418-441a-a73a-847abc462f73.gif" width="80" height="43" >
+ <img alt="swiss knife" src="https://user-images.githubusercontent.com/110791809/201522585-06804049-f418-441a-a73a-847abc462f73.gif" width="80" height="43">
+ <img alt="title" src="https://user-images.githubusercontent.com/110791809/202304398-175faff1-974f-4c63-9040-a5aed3ee955e.png">
+ <img alt="swiss knife" src="https://user-images.githubusercontent.com/110791809/201522585-06804049-f418-441a-a73a-847abc462f73.gif" width="80" height="43" >
 </p>
-
+<div  align="center" backgroun="#ccddcc"> 
 <p>
  Documents <img alt="docs" src="https://user-images.githubusercontent.com/110791809/201526502-18edea89-bfe7-4843-9089-58c1c268a256.png" width="60" height="60" >
   <img alt="<--" src="https://user-images.githubusercontent.com/110791809/202056244-49761759-68ed-4cb5-a925-21076212d254.jpg" width=80 height=60>
@@ -49,6 +51,7 @@
   <img alt="Solidworks" src="https://user-images.githubusercontent.com/110791809/202288776-f9feb07d-75ac-4db0-865b-d80d1bfcf158.jpg" width=50 height=55>
   <img alt="G-Earth" src="https://user-images.githubusercontent.com/110791809/202292972-5431af0b-afb4-4d3a-bab3-bef927f4d473.png" width=50 height=55>
 </p>
+</div> 
 <hr size="3" nonshade>
 <hline>
 
