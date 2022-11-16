@@ -4,7 +4,7 @@
 </p>
 
 <p>
-  <img alt="docs" src="https://user-images.githubusercontent.com/110791809/201526502-18edea89-bfe7-4843-9089-58c1c268a256.png" width="60" height="60" >
+ Documents <img alt="docs" src="https://user-images.githubusercontent.com/110791809/201526502-18edea89-bfe7-4843-9089-58c1c268a256.png" width="60" height="60" >
   <img alt="<--" src="https://user-images.githubusercontent.com/110791809/202056244-49761759-68ed-4cb5-a925-21076212d254.jpg" width=80 height=60>
   <img alt="jupyter" src="https://user-images.githubusercontent.com/110791809/201928917-9f346895-3cbf-4c14-bad6-4aaac3ca6122.png" width=55 height=60>
   <img alt="Rstudio" src="https://user-images.githubusercontent.com/110791809/201929062-d01c4c35-24b0-4b64-b869-b586fb10e9f7.png" width=53 height=60>
@@ -15,7 +15,7 @@
   <img alt="G-docs" src="https://user-images.githubusercontent.com/110791809/202031081-287dc0ac-3307-4bfe-87e4-e2c8654f75b3.png" width=45 height=60>
 </p>
 <p>
-  <img alt="python" src="https://user-images.githubusercontent.com/110791809/201528672-70a4a688-015a-4591-9615-f1eb864837f9.jpg" width="60" height="60">
+  PYTHON Analysis <img alt="python" src="https://user-images.githubusercontent.com/110791809/201528672-70a4a688-015a-4591-9615-f1eb864837f9.jpg" width="60" height="60">
   <img alt="<--" src="https://user-images.githubusercontent.com/110791809/202056244-49761759-68ed-4cb5-a925-21076212d254.jpg" width=80 height=60>
   <img alt="numpy" src="https://user-images.githubusercontent.com/110791809/202039116-3f118ad8-332f-4252-940e-aa4e8509412d.png" width=50 height=60>
   <img alt="Scipy" src="https://user-images.githubusercontent.com/110791809/202037964-924fd406-456c-45fa-b191-26c486abdf72.jpg" width=50 height=60>
@@ -26,12 +26,12 @@
   <img alt="Geopandas" src="https://user-images.githubusercontent.com/110791809/202053294-715820fb-1bd2-4268-8146-b04ecdb6cc6a.png" width=60 height=60>
 </p>
 <p>
-  <img alt="R" src="https://user-images.githubusercontent.com/110791809/201529183-9d7b3951-0d92-42f9-9430-f1a9cda00b08.jpg" width="55" height="55">
+  R Analysis <img alt="R" src="https://user-images.githubusercontent.com/110791809/201529183-9d7b3951-0d92-42f9-9430-f1a9cda00b08.jpg" width="55" height="55">
   <img alt="<--" src="https://user-images.githubusercontent.com/110791809/202056244-49761759-68ed-4cb5-a925-21076212d254.jpg" width=80 height=60>
   <img alt="R-libraries" src="https://user-images.githubusercontent.com/110791809/202172555-9073f91f-ed88-4f99-b04d-3a9a13805e45.png" width=425 height=60>
 </p>
 <p>
-  <img alt="SQL" src="https://user-images.githubusercontent.com/110791809/202178638-fa9d9b94-26ac-4a9a-8ae4-452c9b11fafa.png" width="60" height="60">
+  Queries <img alt="SQL" src="https://user-images.githubusercontent.com/110791809/202178638-fa9d9b94-26ac-4a9a-8ae4-452c9b11fafa.png" width="60" height="60">
   <img alt="<--" src="https://user-images.githubusercontent.com/110791809/202056244-49761759-68ed-4cb5-a925-21076212d254.jpg" width=80 height=60>
   <img alt="Mysql" src="https://user-images.githubusercontent.com/110791809/202176175-5480fe6f-407c-4b5d-86f4-5bd71cec4543.png" width=55 height=53>
   <img alt="Sqlite" src="https://user-images.githubusercontent.com/110791809/202175610-5f5c5765-f0ac-4cbf-a6db-20164b34a7bb.png" width=55 height=55>
@@ -39,7 +39,7 @@
   <img alt="ms-acess" src="" width=50 height=60>
 </p>
 <p>
-  <img alt= "presentation" src="https://user-images.githubusercontent.com/110791809/202204264-68025708-8a2c-4464-84af-5ab6614fd362.png" width=60 height=60>
+  Creativity <img alt= "presentation" src="https://user-images.githubusercontent.com/110791809/202204264-68025708-8a2c-4464-84af-5ab6614fd362.png" width=60 height=60>
   <img alt="<--" src="https://user-images.githubusercontent.com/110791809/202056244-49761759-68ed-4cb5-a925-21076212d254.jpg" width=80 height=60>
   <img alt="tableau" src="https://user-images.githubusercontent.com/110791809/202204387-dff64b19-4dc0-48bd-b6ec-624a6d449e2e.png" width=50 height=50>
   <img alt="Inkscape" src="https://user-images.githubusercontent.com/110791809/202286452-cde5249f-398e-4f38-9931-c7467b01cf22.png" width=55 height=55>
