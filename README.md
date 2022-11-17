@@ -16,7 +16,7 @@
   <img alt="libre-o" src="https://user-images.githubusercontent.com/110791809/202013555-f3e6acce-962e-4e76-bb53-d93ab8b4d4e6.png" width=55 height=60>
   <img alt="ms-Offi" src="https://user-images.githubusercontent.com/110791809/202021108-689bb031-d84b-456f-bafc-4df545598459.png" width=60 height=60>
   <img alt="G-docs" src="https://user-images.githubusercontent.com/110791809/202031081-287dc0ac-3307-4bfe-87e4-e2c8654f75b3.png" width=45 height=60>
-  <img alt="fill" src="https://user-images.githubusercontent.com/110791809/202456433-e5cd699c-90fb-44b4-8187-dca138db345e.png" width=25 height=2>
+  <img alt="fill" src="https://user-images.githubusercontent.com/110791809/202456433-e5cd699c-90fb-44b4-8187-dca138db345e.png" width=55 height=2>
 </p>
 <p>
   <img alt="Analysis" src="https://user-images.githubusercontent.com/110791809/202342965-55fd7108-e0fe-42f4-aac2-c7e3d9f8d50b.png" width=130 height=40>
@@ -29,14 +29,14 @@
   <img alt="plt" src="https://user-images.githubusercontent.com/110791809/202041058-b746466c-efe7-45b8-8f84-2831d1e66f94.png" width=50 height=60>
   <img al="seaborn" src="https://user-images.githubusercontent.com/110791809/202046527-074d88e8-5745-4e58-9887-ae1ad40c1719.png" width=65 height=60>
   <img alt="Geopandas" src="https://user-images.githubusercontent.com/110791809/202053294-715820fb-1bd2-4268-8146-b04ecdb6cc6a.png" width=60 height=60>
-  <img alt="fill" src="https://user-images.githubusercontent.com/110791809/202456433-e5cd699c-90fb-44b4-8187-dca138db345e.png" width=10 height=2>
+  <img alt="fill" src="https://user-images.githubusercontent.com/110791809/202456433-e5cd699c-90fb-44b4-8187-dca138db345e.png" width=40 height=2>
 </p>
 <p>
   <img alt="Analysis" src="https://user-images.githubusercontent.com/110791809/202342965-55fd7108-e0fe-42f4-aac2-c7e3d9f8d50b.png" width=130 height=40>
   <img alt="R" src="https://user-images.githubusercontent.com/110791809/201529183-9d7b3951-0d92-42f9-9430-f1a9cda00b08.jpg" width="55" height="55">
   <img alt="<--" src="https://user-images.githubusercontent.com/110791809/202056244-49761759-68ed-4cb5-a925-21076212d254.jpg" width=80 height=60>
   <img alt="R-libraries" src="https://user-images.githubusercontent.com/110791809/202172555-9073f91f-ed88-4f99-b04d-3a9a13805e45.png" width=425 height=60>
-  <img alt="fill" src="https://user-images.githubusercontent.com/110791809/202456433-e5cd699c-90fb-44b4-8187-dca138db345e.png" width=2 height=2>
+  <img alt="fill" src="https://user-images.githubusercontent.com/110791809/202456433-e5cd699c-90fb-44b4-8187-dca138db345e.png" width=32 height=2>
 </p>
 <p>
   <img alt="Queries" src="https://user-images.githubusercontent.com/110791809/202457301-3f401902-c0e0-48d1-8530-e586ff2179fe.png" width=140 height=40>
@@ -46,10 +46,10 @@
   <img alt="Sqlite" src="https://user-images.githubusercontent.com/110791809/202175610-5f5c5765-f0ac-4cbf-a6db-20164b34a7bb.png" width=55 height=55>
   <img alt="Bigquery" src="https://user-images.githubusercontent.com/110791809/202177357-ed78991c-41e4-44f7-969d-b49587860bb8.png" width=50 height=55>
   <img alt="ms-acess" src="https://user-images.githubusercontent.com/110791809/202344418-b500d934-81a2-4435-a733-aa921a67e9a7.jpg" width=50 height=60>
-  <img alt="fill" src="https://user-images.githubusercontent.com/110791809/202456433-e5cd699c-90fb-44b4-8187-dca138db345e.png" width=215 height=2>
+  <img alt="fill" src="https://user-images.githubusercontent.com/110791809/202456433-e5cd699c-90fb-44b4-8187-dca138db345e.png" width=245 height=2>
 </p>
 <p>
-  <img alt="creativity" src="" width=100 height=40>
+  <img alt="creativity" src="https://user-images.githubusercontent.com/110791809/202560584-063f7e21-4b38-4feb-879f-99639ec05503.png" width=140 height=50>
   <img alt= "presentation" src="https://user-images.githubusercontent.com/110791809/202204264-68025708-8a2c-4464-84af-5ab6614fd362.png" width=60 height=60>
   <img alt="<--" src="https://user-images.githubusercontent.com/110791809/202056244-49761759-68ed-4cb5-a925-21076212d254.jpg" width=80 height=60>
   <img alt="tableau" src="https://user-images.githubusercontent.com/110791809/202204387-dff64b19-4dc0-48bd-b6ec-624a6d449e2e.png" width=50 height=50> 
