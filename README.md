@@ -56,7 +56,7 @@
   <img alt="Blender" src="https://user-images.githubusercontent.com/110791809/202286626-385c2f1f-e04b-47d7-8c45-059731050bd6.png" width=55 height=60>
   <img alt="Solidworks" src="https://user-images.githubusercontent.com/110791809/202288776-f9feb07d-75ac-4db0-865b-d80d1bfcf158.jpg" width=50 height=55>
   <img alt="premierepro" src="https://user-images.githubusercontent.com/110791809/202286686-0e41453c-bd5b-4b5c-9aa3-9d35753985f0.png" width=50 height=55>
-  <img alt="G-Earth" src="https://user-images.githubusercontent.com/110791809/202292972-5431af0b-afb4-4d3a-bab3-bef927f4d473.png" width=50 height=55>
+  <img alt="G-Earth" src="https://user-images.githubusercontent.com/110791809/202481514-0c241e10-b010-40ed-badc-7c82b35108c7.png" width=50 height=55>
 </p>
 </div> 
 <hr size="3" nonshade>
