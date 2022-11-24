@@ -49,16 +49,16 @@
   <img alt="fill" src="https://user-images.githubusercontent.com/110791809/203857651-1a917753-04a5-4015-aa69-86808c97c65b.png" width=245 height=2>
 </p>
 <p>
-  <img alt="creativity" src="https://user-images.githubusercontent.com/110791809/203850864-91eaf9f2-e39b-44a8-bfa9-197581d1890c.png" width=140 height=50>
-  <img alt= "presentation" src="" width=60 height=60>
+  <img alt="creativity" src="https://user-images.githubusercontent.com/110791809/203871157-15492662-8fd4-4156-bbe5-b48ac669b346.png" width=140 height=50>
+  <img alt= "presentation" src="https://user-images.githubusercontent.com/110791809/203871126-37d441f6-bd3e-41f3-a402-5f016bb6b57a.png" width=60 height=60>
   <img alt="<--" src="https://user-images.githubusercontent.com/110791809/203850864-91eaf9f2-e39b-44a8-bfa9-197581d1890c.png" width=80 height=60>
-  <img alt="tableau" src="" width=50 height=50> 
-  <img alt="DALL-E" src="" width=80 height=50>
-  <img alt="Inkscape" src="" width=55 height=55>
-  <img alt="photoshop" src="" width=55 height=55>
-  <img alt="Blender" src="" width=55 height=60>
-  <img alt="Solidworks" src="" width=50 height=55>
-  <img alt="premierepro" src="" width=50 height=55>
+  <img alt="tableau" src="https://user-images.githubusercontent.com/110791809/203870750-8a35bb8b-e3b3-4ea4-b7fb-86725562f746.png" width=50 height=50> 
+  <img alt="DALL-E" src="https://user-images.githubusercontent.com/110791809/203870724-1710154d-8093-4197-befb-0e513466df47.png" width=80 height=50>
+  <img alt="Inkscape" src="https://user-images.githubusercontent.com/110791809/203870773-19722051-bffe-4d09-9757-f7fc072370c5.png" width=55 height=55>
+  <img alt="photoshop" src="https://user-images.githubusercontent.com/110791809/203870790-2aad7b38-2725-4f90-8558-e019573575c5.png" width=55 height=55>
+  <img alt="Blender" src="https://user-images.githubusercontent.com/110791809/203870840-82bb01cd-024a-4968-bf34-e97ce5193f02.png" width=55 height=60>
+  <img alt="Solidworks" src="https://user-images.githubusercontent.com/110791809/203870873-35d3e1f8-9bbe-4ae9-8b62-adb500c8b9c0.png" width=50 height=55>
+  <img alt="premierepro" src="https://user-images.githubusercontent.com/110791809/203870888-a2f9478f-3a87-4df7-968b-6bd26cfc49db.png" width=50 height=55>
   <img alt="G-Earth" src="https://user-images.githubusercontent.com/110791809/203857651-1a917753-04a5-4015-aa69-86808c97c65b.png" width=50 height=55>
 </p>
 </div> 
