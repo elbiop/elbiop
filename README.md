@@ -6,22 +6,22 @@
 </p>
 <div  align="center" backgroun="#ccddcc"> 
 <p>
-  <img alt="Documents" src="https://user-images.githubusercontent.com/110791809/202486624-dea06b8b-d36d-4847-b33c-fcb619308e48.png" width=130 height=40>
-  <img alt="csv-txt" src="https://user-images.githubusercontent.com/110791809/201526502-18edea89-bfe7-4843-9089-58c1c268a256.png" width="60" height="60" >
-  <img alt="<--" src="https://user-images.githubusercontent.com/110791809/202056244-49761759-68ed-4cb5-a925-21076212d254.jpg" width=80 height=60>
-  <img alt="jupyter" src="https://user-images.githubusercontent.com/110791809/201928917-9f346895-3cbf-4c14-bad6-4aaac3ca6122.png" width=55 height=60>
-  <img alt="Rstudio" src="https://user-images.githubusercontent.com/110791809/201929062-d01c4c35-24b0-4b64-b869-b586fb10e9f7.png" width=53 height=60>
-  <img alt="spyder" src="https://user-images.githubusercontent.com/110791809/201931871-98a1837a-858c-476b-818e-b15812980c44.png" width=55 height=60>
-  <img alt="sublime"src="https://user-images.githubusercontent.com/110791809/201934316-6d7fea8b-f92d-4e07-84eb-5f62a44d5061.png" width=50 height=60>
-  <img alt="libre-o" src="https://user-images.githubusercontent.com/110791809/202013555-f3e6acce-962e-4e76-bb53-d93ab8b4d4e6.png" width=55 height=60>
-  <img alt="ms-Offi" src="https://user-images.githubusercontent.com/110791809/202021108-689bb031-d84b-456f-bafc-4df545598459.png" width=60 height=60>
-  <img alt="G-docs" src="https://user-images.githubusercontent.com/110791809/202031081-287dc0ac-3307-4bfe-87e4-e2c8654f75b3.png" width=45 height=60>
-  <img alt="fill" src="https://user-images.githubusercontent.com/110791809/202456433-e5cd699c-90fb-44b4-8187-dca138db345e.png" width=55 height=2>
+  <img alt="Documents" src="https://user-images.githubusercontent.com/110791809/203850757-0d7d8269-ca74-447e-9eb9-e416a33044bd.png" width=130 height=40>
+  <img alt="csv-txt" src="https://user-images.githubusercontent.com/110791809/203850813-f4475640-1722-46d9-8ef5-defdafdff0e3.png" width="60" height="60" >
+  <img alt="<--" src="https://user-images.githubusercontent.com/110791809/203850864-91eaf9f2-e39b-44a8-bfa9-197581d1890c.png" width=80 height=60>
+  <img alt="jupyter" src="https://user-images.githubusercontent.com/110791809/203851338-b4bba076-52fd-4875-969e-3bdfbe21d263.png" width=55 height=60>
+  <img alt="Rstudio" src="https://user-images.githubusercontent.com/110791809/203851359-54702263-59fc-4c64-8a44-05a2641d4e0f.png" width=53 height=60>
+  <img alt="spyder" src="https://user-images.githubusercontent.com/110791809/203851420-fbce3af1-cd42-4c52-a47c-826a56d50afd.png" width=55 height=60>
+  <img alt="sublime"src="https://user-images.githubusercontent.com/110791809/203851444-65317d43-9611-467b-bada-865711b3f906.png" width=50 height=60>
+  <img alt="libre-o" src="https://user-images.githubusercontent.com/110791809/203851499-8c0d3256-ec79-47ca-ba26-59420a0cb389.png" width=55 height=60>
+  <img alt="ms-Offi" src="https://user-images.githubusercontent.com/110791809/203851539-9bac03f9-4e30-40ef-ad35-f369f79fa98a.png" width=60 height=60>
+  <img alt="G-docs" src="https://user-images.githubusercontent.com/110791809/203851622-9960deda-5017-440a-afaf-5c349d0e3e42.png" width=45 height=60>
+  <img alt="fill" src="https://user-images.githubusercontent.com/110791809/203851859-5d73996d-5413-4a71-b954-2df3685d8f4b.png" width=55 height=2>
 </p>
 <p>
   <img alt="Analysis" src="https://user-images.githubusercontent.com/110791809/202342965-55fd7108-e0fe-42f4-aac2-c7e3d9f8d50b.png" width=130 height=40>
   <img alt="python" src="https://user-images.githubusercontent.com/110791809/201528672-70a4a688-015a-4591-9615-f1eb864837f9.jpg" width="60" height="60">
-  <img alt="<--" src="https://user-images.githubusercontent.com/110791809/202056244-49761759-68ed-4cb5-a925-21076212d254.jpg" width=80 height=60>
+  <img alt="<--" src="https://user-images.githubusercontent.com/110791809/203850864-91eaf9f2-e39b-44a8-bfa9-197581d1890c.png" width=80 height=60>
   <img alt="numpy" src="https://user-images.githubusercontent.com/110791809/202039116-3f118ad8-332f-4252-940e-aa4e8509412d.png" width=50 height=60>
   <img alt="Scipy" src="https://user-images.githubusercontent.com/110791809/202037964-924fd406-456c-45fa-b191-26c486abdf72.jpg" width=50 height=60>
   <img alt="pandas" src="https://user-images.githubusercontent.com/110791809/202039797-8e4b398e-c508-4631-9f67-70bda7354c19.png" width=50 height=60>
@@ -34,14 +34,14 @@
 <p>
   <img alt="Analysis" src="https://user-images.githubusercontent.com/110791809/202342965-55fd7108-e0fe-42f4-aac2-c7e3d9f8d50b.png" width=130 height=40>
   <img alt="R" src="https://user-images.githubusercontent.com/110791809/201529183-9d7b3951-0d92-42f9-9430-f1a9cda00b08.jpg" width="55" height="55">
-  <img alt="<--" src="https://user-images.githubusercontent.com/110791809/202056244-49761759-68ed-4cb5-a925-21076212d254.jpg" width=80 height=60>
+  <img alt="<--" src="https://user-images.githubusercontent.com/110791809/203850864-91eaf9f2-e39b-44a8-bfa9-197581d1890c.png" width=80 height=60>
   <img alt="R-libraries" src="https://user-images.githubusercontent.com/110791809/202172555-9073f91f-ed88-4f99-b04d-3a9a13805e45.png" width=425 height=60>
   <img alt="fill" src="https://user-images.githubusercontent.com/110791809/202456433-e5cd699c-90fb-44b4-8187-dca138db345e.png" width=32 height=2>
 </p>
 <p>
   <img alt="Queries" src="https://user-images.githubusercontent.com/110791809/202457301-3f401902-c0e0-48d1-8530-e586ff2179fe.png" width=140 height=40>
   <img alt="SQL" src="https://user-images.githubusercontent.com/110791809/202345354-c34ccbc6-9f46-43b3-b2f6-3caa1f001d04.png" width="60" height="60">
-  <img alt="<--" src="https://user-images.githubusercontent.com/110791809/202056244-49761759-68ed-4cb5-a925-21076212d254.jpg" width=80 height=60>
+  <img alt="<--" src="https://user-images.githubusercontent.com/110791809/203850864-91eaf9f2-e39b-44a8-bfa9-197581d1890c.png" width=80 height=60>
   <img alt="Mysql" src="https://user-images.githubusercontent.com/110791809/202176175-5480fe6f-407c-4b5d-86f4-5bd71cec4543.png" width=55 height=53>
   <img alt="Sqlite" src="https://user-images.githubusercontent.com/110791809/202175610-5f5c5765-f0ac-4cbf-a6db-20164b34a7bb.png" width=55 height=55>
   <img alt="Bigquery" src="https://user-images.githubusercontent.com/110791809/202177357-ed78991c-41e4-44f7-969d-b49587860bb8.png" width=50 height=55>
@@ -51,7 +51,7 @@
 <p>
   <img alt="creativity" src="https://user-images.githubusercontent.com/110791809/202560584-063f7e21-4b38-4feb-879f-99639ec05503.png" width=140 height=50>
   <img alt= "presentation" src="https://user-images.githubusercontent.com/110791809/202204264-68025708-8a2c-4464-84af-5ab6614fd362.png" width=60 height=60>
-  <img alt="<--" src="https://user-images.githubusercontent.com/110791809/202056244-49761759-68ed-4cb5-a925-21076212d254.jpg" width=80 height=60>
+  <img alt="<--" src="https://user-images.githubusercontent.com/110791809/203850864-91eaf9f2-e39b-44a8-bfa9-197581d1890c.png" width=80 height=60>
   <img alt="tableau" src="https://user-images.githubusercontent.com/110791809/202204387-dff64b19-4dc0-48bd-b6ec-624a6d449e2e.png" width=50 height=50> 
   <img alt="DALL-E" src="https://user-images.githubusercontent.com/110791809/202479803-abf9a837-a984-47c6-863b-71874d6e84bd.jpg" width=80 height=50>
   <img alt="Inkscape" src="https://user-images.githubusercontent.com/110791809/202286452-cde5249f-398e-4f38-9931-c7467b01cf22.png" width=55 height=55>
