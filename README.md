@@ -1,4 +1,4 @@
-<H2 align="center"> Elbio Peña - Data Analyst </H3>
+<H2 align="center"> Elbio Peña </H3>
 <p align="center">
  <img alt="swiss knife" src="https://user-images.githubusercontent.com/110791809/201522585-06804049-f418-441a-a73a-847abc462f73.gif" width="80" height="43">
  <img alt="title" src="https://user-images.githubusercontent.com/110791809/202304398-175faff1-974f-4c63-9040-a5aed3ee955e.png">
