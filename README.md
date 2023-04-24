@@ -1,4 +1,8 @@
 <H2 align="center"> Elbio Peña </H3>
+Engineer with 10+ years developing monitoring, reporting and improving KPI's in the plastics, electronics and consumer goods industries. Performing in the positions of Maintenance Mgr; Production Mgr. and Process engineering Mgr. Accounts for a multy disciplinary expertise for business analitycs.
+Strong technical skills in Python, R, and other programming, markup and query languages with ong Experience managing teams.
+
+
 <p align="center">
  <img alt="swiss knife" src="https://user-images.githubusercontent.com/110791809/201522585-06804049-f418-441a-a73a-847abc462f73.gif" width="80" height="43">
  <img alt="title" src="https://user-images.githubusercontent.com/110791809/202304398-175faff1-974f-4c63-9040-a5aed3ee955e.png">
