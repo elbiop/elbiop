@@ -1,7 +1,7 @@
 <H2 align="center"> Elbio Peña </H3>
-Engineer with 10+ years developing monitoring, reporting and improving KPI's in the plastics, electronics and consumer goods industries. Performing in the positions of Maintenance Mgr; Production Mgr. and Process engineering Mgr. This accounts for a multy disciplinary expertise for business analitycs.
+Engineer with 10+ years developing monitoring, reporting and improving KPI's in the plastics, electronics and consumer goods industries. Performing in the positions of Maintenance Mgr. Production Mgr. and Process engineering Mgr. This accounts for a multy disciplinary expertise for business analitycs.
 Strong technical skills in Python, R, and other programming, markup and query languages, with long experience managing teams.
-I am currently looking for a challenging and rewarding opportunity to use my skills and experience To add value and make an impact.
+I am currently looking for a challenging and rewarding opportunity to use my skills and experience in data analytics to add value and make an impact.
 
 
 <p align="center">
