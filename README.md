@@ -2,7 +2,12 @@
 Engineer with 10+ years developing monitoring, reporting and improving KPI's in the plastics, electronics and consumer goods industries. Performing in the positions of Maintenance Mgr. Production Mgr. and Process engineering Mgr. This accounts for a multy disciplinary expertise for business analitycs.
 Strong technical skills in Python, R, and other programming, markup and query languages, with long experience managing teams.
 I am currently looking for a challenging and rewarding opportunity to use my skills and experience in data analytics to add value and make an impact.
-
+<!DOCTYPE html>
+<html>
+  <body style="overflow:hidden; margin:0; text-align:center;">
+    <img src="https://file-examples-com.github.io/uploads/2017/10/file_example_JPG_2500kB.jpg" style="height:100vh; max-width:100%; object-fit: contain;">
+  </body>
+</html>
 
 <p align="center">
  <img alt="swiss knife" src="https://user-images.githubusercontent.com/110791809/201522585-06804049-f418-441a-a73a-847abc462f73.gif" width="80" height="43">
