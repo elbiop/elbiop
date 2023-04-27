@@ -2,18 +2,20 @@
 Engineer with 10+ years developing monitoring, reporting and improving KPI's in the plastics, electronics and consumer goods industries. Performing in the positions of Maintenance Mgr. Production Mgr. and Process engineering Mgr. This accounts for a multy disciplinary expertise for business analitycs.
 Strong technical skills in Python, R, and other programming, markup and query languages, with long experience managing teams.
 I am currently looking for a challenging and rewarding opportunity to use my skills and experience in data analytics to add value and make an impact.
-<!DOCTYPE html>
-<html>
-  <body style="overflow:hidden; margin:0; text-align:center;">
-    <img src="https://file-examples-com.github.io/uploads/2017/10/file_example_JPG_2500kB.jpg" style="height:100vh; max-width:100%; object-fit: contain;">
+<body style="overflow:hidden; margin:0; text-align:center;">
+    <img src="https://user-images.githubusercontent.com/110791809/234843694-1b042135-9580-4b28-b508-37ac36dac7c2.png" style="height:10vh; max-width:100%; object-fit: contain;">
   </body>
-</html>
-### Contact Me
+<H3>Contact me</H3>
 <p align="center">
-<img alt="whatsapp" src="https://user-images.githubusercontent.com/110791809/234838808-abde4e0d-72d9-4f6d-ae21-219a44451a0e.png" height=30 width=360>
-<img alt="outlook" src="https://user-images.githubusercontent.com/110791809/234839091-efe2b071-9625-4b9e-9cfe-75e0282f2561.png" height=30 width=360>
-</p>
+<img alt="whatsapp" src="https://user-images.githubusercontent.com/110791809/234838808-abde4e0d-72d9-4f6d-ae21-219a44451a0e.png" height=25 width=300>
+<img alt="outlook" src="https://user-images.githubusercontent.com/110791809/234839091-efe2b071-9625-4b9e-9cfe-75e0282f2561.png" height=25 width=300>
+<img alt="gmail" src="https://user-images.githubusercontent.com/110791809/234843694-1b042135-9580-4b28-b508-37ac36dac7c2.png" height=25 width=300>
+<br>
+<img alt="linkedin" src="https://user-images.githubusercontent.com/110791809/234846487-b4e82207-ef3c-413d-927f-33c7d6a683f7.png" height=25 width=300>
+<img alt="twitter" src="https://user-images.githubusercontent.com/110791809/234846635-5c7322b1-6a76-4b29-b54f-cfa10cb6e51f.png" height=25 width=300>
+<img alt="reddit" src="https://user-images.githubusercontent.com/110791809/234846772-81b35e98-d378-42b9-b74c-192bf0bb7047.png" height=25 width=300>
 <p align="center">
+
  <img alt="swiss knife" src="https://user-images.githubusercontent.com/110791809/201522585-06804049-f418-441a-a73a-847abc462f73.gif" width="80" height="43">
  <img alt="title" src="https://user-images.githubusercontent.com/110791809/202304398-175faff1-974f-4c63-9040-a5aed3ee955e.png">
  <img alt="swiss knife" src="https://user-images.githubusercontent.com/110791809/201522585-06804049-f418-441a-a73a-847abc462f73.gif" width="80" height="43" >
