@@ -8,7 +8,11 @@ I am currently looking for a challenging and rewarding opportunity to use my ski
     <img src="https://file-examples-com.github.io/uploads/2017/10/file_example_JPG_2500kB.jpg" style="height:100vh; max-width:100%; object-fit: contain;">
   </body>
 </html>
-
+### Contact Me
+<p align="center">
+<img alt="whatsapp" src="https://user-images.githubusercontent.com/110791809/234838808-abde4e0d-72d9-4f6d-ae21-219a44451a0e.png" height=30 width=360>
+<img alt="outlook" src="https://user-images.githubusercontent.com/110791809/234839091-efe2b071-9625-4b9e-9cfe-75e0282f2561.png" height=30 width=360>
+</p>
 <p align="center">
  <img alt="swiss knife" src="https://user-images.githubusercontent.com/110791809/201522585-06804049-f418-441a-a73a-847abc462f73.gif" width="80" height="43">
  <img alt="title" src="https://user-images.githubusercontent.com/110791809/202304398-175faff1-974f-4c63-9040-a5aed3ee955e.png">
