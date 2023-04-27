@@ -1,10 +1,10 @@
-<H2 align="center"> Elbio Peña </H3>
+<H2 align="center"> Elbio Peña </H3>   
+<hr size="3" nonshade>
 Engineer with 10+ years developing monitoring, reporting and improving KPI's in the plastics, electronics and consumer goods industries. Performing in the positions of Maintenance Mgr. Production Mgr. and Process engineering Mgr. This accounts for a multy disciplinary expertise for business analitycs.
 Strong technical skills in Python, R, and other programming, markup and query languages, with long experience managing teams.
-I am currently looking for a challenging and rewarding opportunity to use my skills and experience in data analytics to add value and make an impact.
-<body style="overflow:hidden; margin:0; text-align:center;">
-    <img src="" style="height:10vh; max-width:100%; object-fit: contain;">
-  </body>
+I am currently looking for a challenging and rewarding opportunity to use my skills and experience in data analytics to add value and make an impact
+
+<hr size="3" nonshade>
 <H3>Contact me</H3>
 <p align="left">    
     <a href="https://web.whatsapp.com">
@@ -14,22 +14,22 @@ I am currently looking for a challenging and rewarding opportunity to use my ski
         '<img alt="outlook" src="https://user-images.githubusercontent.com/110791809/234914159-675ee9f1-2fe5-4790-874d-ae950cd6dc22.png" height=23 width=276>
     </a>
     <a href="https://linkedin.com/in/ingeniero-elbio-peña/">
-        <img alt="linkedin" src="https://user-images.githubusercontent.com/110791809/234914446-570b9606-3673-4cd8-b178-5374eff0f649.png" height=24 width=288>
+        <img alt="linkedin" src="https://user-images.githubusercontent.com/110791809/234914446-570b9606-3673-4cd8-b178-5374eff0f649.png" height=25 width=300>
     </a>
     <br>
     <a href="https://gmail.com">
-        <img alt="gmail" src="https://user-images.githubusercontent.com/110791809/234843694-1b042135-9580-4b28-b508-37ac36dac7c2.png" height=25 width=300>
+        <img alt="gmail" src="https://user-images.githubusercontent.com/110791809/234966981-c3d7a242-c0be-4e64-8774-37abe348cf19.png" height=23 width=276>
     </a>
-    <a href="https://twetter.com/ElbioPeña"
-        <img alt="twitter" src="https://user-images.githubusercontent.com/110791809/234846635-5c7322b1-6a76-4b29-b54f-cfa10cb6e51f.png" height=25 width=300>
+    <a href="https://twitter.com/ElbioPena">
+        <img alt="twitter" src="https://user-images.githubusercontent.com/110791809/234967065-c5bc54eb-e0c2-45f9-8627-4c22b3da799b.png" height=23 width=276>
     </a>
-    <a href="https">
-        <img alt="reddit" src="https://user-images.githubusercontent.com/110791809/234846772-81b35e98-d378-42b9-b74c-192bf0bb7047.png" height=25 width=300>
-   </a>
+    <a href="https://www.reddit.com/user/Admirable_Fun4098">
+        <img alt="reddit" src="https://user-images.githubusercontent.com/110791809/234967113-50151b26-866a-4e18-9160-31f45690aca2.png" height=23 width=276>
+    </a>
 </p>
 
+<hr size="3" nonshade>
 <p align="center">
-
  <img alt="swiss knife" src="https://user-images.githubusercontent.com/110791809/201522585-06804049-f418-441a-a73a-847abc462f73.gif" width="80" height="43">
  <img alt="title" src="https://user-images.githubusercontent.com/110791809/202304398-175faff1-974f-4c63-9040-a5aed3ee955e.png">
  <img alt="swiss knife" src="https://user-images.githubusercontent.com/110791809/201522585-06804049-f418-441a-a73a-847abc462f73.gif" width="80" height="43" >
@@ -93,23 +93,3 @@ I am currently looking for a challenging and rewarding opportunity to use my ski
 </p>
 </div> 
 <hr size="3" nonshade>
-<hline>
-
----
-
-### Hi there 👋
-
-<!--
-**elbiop/elbiop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
