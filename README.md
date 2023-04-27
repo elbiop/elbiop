@@ -6,20 +6,28 @@ I am currently looking for a challenging and rewarding opportunity to use my ski
     <img src="" style="height:10vh; max-width:100%; object-fit: contain;">
   </body>
 <H3>Contact me</H3>
-<p align="left">
+<p align="left">    
     <a href="https://web.whatsapp.com">
-        <img alt="whatsapp" src="https://user-images.githubusercontent.com/110791809/234897653-4154932b-75ca-4a78-8fcd-d0ef65e2d739.png" height=23 width=276>
+        <img alt="whatsapp" src="https://user-images.githubusercontent.com/110791809/234913939-16f791e5-57ec-4f95-824f-bab9d2a5b310.png" height=23 width=276>
     </a>
     <a href="https://outlook.live.com/">
-        '<img alt="outlook" src="https://user-images.githubusercontent.com/110791809/234898262-170ecf11-2457-46d3-9860-51fd879557e6.png" height=23 width=276>
+        '<img alt="outlook" src="https://user-images.githubusercontent.com/110791809/234914159-675ee9f1-2fe5-4790-874d-ae950cd6dc22.png" height=23 width=276>
     </a>
     <a href="https://linkedin.com/in/ingeniero-elbio-peña/">
-        <img alt="linkedin" src="https://user-images.githubusercontent.com/110791809/234902919-e0cb99c6-5784-4382-adda-3656f986e18f.png" height=23 width=276>
+        <img alt="linkedin" src="https://user-images.githubusercontent.com/110791809/234914446-570b9606-3673-4cd8-b178-5374eff0f649.png" height=24 width=288>
     </a>
     <br>
-<img alt="gmail" src="https://user-images.githubusercontent.com/110791809/234843694-1b042135-9580-4b28-b508-37ac36dac7c2.png" height=25 width=300>
-<img alt="twitter" src="https://user-images.githubusercontent.com/110791809/234846635-5c7322b1-6a76-4b29-b54f-cfa10cb6e51f.png" height=25 width=300>
-<img alt="reddit" src="https://user-images.githubusercontent.com/110791809/234846772-81b35e98-d378-42b9-b74c-192bf0bb7047.png" height=25 width=300>
+    <a href="https://gmail.com">
+        <img alt="gmail" src="https://user-images.githubusercontent.com/110791809/234843694-1b042135-9580-4b28-b508-37ac36dac7c2.png" height=25 width=300>
+    </a>
+    <a href="https://twetter.com/ElbioPeña"
+        <img alt="twitter" src="https://user-images.githubusercontent.com/110791809/234846635-5c7322b1-6a76-4b29-b54f-cfa10cb6e51f.png" height=25 width=300>
+    </a>
+    <a href="https">
+        <img alt="reddit" src="https://user-images.githubusercontent.com/110791809/234846772-81b35e98-d378-42b9-b74c-192bf0bb7047.png" height=25 width=300>
+   </a>
+</p>
+
 <p align="center">
 
  <img alt="swiss knife" src="https://user-images.githubusercontent.com/110791809/201522585-06804049-f418-441a-a73a-847abc462f73.gif" width="80" height="43">
