@@ -3,15 +3,18 @@ Engineer with 10+ years developing monitoring, reporting and improving KPI's in 
 Strong technical skills in Python, R, and other programming, markup and query languages, with long experience managing teams.
 I am currently looking for a challenging and rewarding opportunity to use my skills and experience in data analytics to add value and make an impact.
 <body style="overflow:hidden; margin:0; text-align:center;">
-    <img src="https://user-images.githubusercontent.com/110791809/234843694-1b042135-9580-4b28-b508-37ac36dac7c2.png" style="height:10vh; max-width:100%; object-fit: contain;">
+    <img src="" style="height:10vh; max-width:100%; object-fit: contain;">
   </body>
 <H3>Contact me</H3>
 <p align="center">
-<img alt="whatsapp" src="https://user-images.githubusercontent.com/110791809/234838808-abde4e0d-72d9-4f6d-ae21-219a44451a0e.png" height=25 width=300>
-<img alt="outlook" src="https://user-images.githubusercontent.com/110791809/234839091-efe2b071-9625-4b9e-9cfe-75e0282f2561.png" height=25 width=300>
-<img alt="gmail" src="https://user-images.githubusercontent.com/110791809/234843694-1b042135-9580-4b28-b508-37ac36dac7c2.png" height=25 width=300>
+<img alt="whatsapp" src="https://user-images.githubusercontent.com/110791809/234897653-4154932b-75ca-4a78-8fcd-d0ef65e2d739.png" height=25 width=300>
+<img alt="outlook" src="https://user-images.githubusercontent.com/110791809/234898262-170ecf11-2457-46d3-9860-51fd879557e6.png" height=23 width=276>
+<img alt="linkedin" src="https://user-images.githubusercontent.com/110791809/234902919-e0cb99c6-5784-4382-adda-3656f986e18f.png" height=25 width=300>
+   
+
+
 <br>
-<img alt="linkedin" src="https://user-images.githubusercontent.com/110791809/234846487-b4e82207-ef3c-413d-927f-33c7d6a683f7.png" height=25 width=300>
+<img alt="gmail" src="https://user-images.githubusercontent.com/110791809/234843694-1b042135-9580-4b28-b508-37ac36dac7c2.png" height=25 width=300>
 <img alt="twitter" src="https://user-images.githubusercontent.com/110791809/234846635-5c7322b1-6a76-4b29-b54f-cfa10cb6e51f.png" height=25 width=300>
 <img alt="reddit" src="https://user-images.githubusercontent.com/110791809/234846772-81b35e98-d378-42b9-b74c-192bf0bb7047.png" height=25 width=300>
 <p align="center">
