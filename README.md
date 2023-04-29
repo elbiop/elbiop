@@ -5,16 +5,7 @@ Strong technical skills in Python, R, and other programming, markup and query la
 I am currently looking for a challenging and rewarding opportunity to use my skills and experience in data analytics to add value and make an impact
 
 <hr size="3" nonshade>
-<table border="0">
- <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
- </tr>
- <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
- </tr>
-</table>
+
 <hr size="3" nonshade>
 <p align="center">
  <img alt="swiss knife" src="https://user-images.githubusercontent.com/110791809/201522585-06804049-f418-441a-a73a-847abc462f73.gif" width="80" height="43">
