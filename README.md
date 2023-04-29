@@ -5,29 +5,16 @@ Strong technical skills in Python, R, and other programming, markup and query la
 I am currently looking for a challenging and rewarding opportunity to use my skills and experience in data analytics to add value and make an impact
 
 <hr size="3" nonshade>
-<H3>Contact me</H3>
-<p align="left">    
-    <a href="https://web.whatsapp.com">
-        <img alt="whatsapp" src="https://user-images.githubusercontent.com/110791809/234913939-16f791e5-57ec-4f95-824f-bab9d2a5b310.png" height=23 width=276>
-    </a>
-    <a href="https://outlook.live.com/">
-        '<img alt="outlook" src="https://user-images.githubusercontent.com/110791809/234914159-675ee9f1-2fe5-4790-874d-ae950cd6dc22.png" height=23 width=276>
-    </a>
-    <a href="https://linkedin.com/in/ingeniero-elbio-peña/">
-        <img alt="linkedin" src="https://user-images.githubusercontent.com/110791809/234914446-570b9606-3673-4cd8-b178-5374eff0f649.png" height=25 width=300>
-    </a>
-    <br>
-    <a href="https://gmail.com">
-        <img alt="gmail" src="https://user-images.githubusercontent.com/110791809/234966981-c3d7a242-c0be-4e64-8774-37abe348cf19.png" height=23 width=276>
-    </a>
-    <a href="https://twitter.com/ElbioPena">
-        <img alt="twitter" src="https://user-images.githubusercontent.com/110791809/234967065-c5bc54eb-e0c2-45f9-8627-4c22b3da799b.png" height=23 width=276>
-    </a>
-    <a href="https://www.reddit.com/user/Admirable_Fun4098">
-        <img alt="reddit" src="https://user-images.githubusercontent.com/110791809/234967113-50151b26-866a-4e18-9160-31f45690aca2.png" height=23 width=276>
-    </a>
-</p>
-
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
 <hr size="3" nonshade>
 <p align="center">
  <img alt="swiss knife" src="https://user-images.githubusercontent.com/110791809/201522585-06804049-f418-441a-a73a-847abc462f73.gif" width="80" height="43">
