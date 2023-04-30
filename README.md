@@ -1,12 +1,24 @@
-<H2 align="center"> Elbio Peña </H3>   
-<hr size="3" nonshade>
+# Elbio Peña   
+---   
+
 Engineer with 10+ years developing monitoring, reporting and improving KPI's in the plastics, electronics and consumer goods industries. Performing in the positions of Maintenance Mgr. Production Mgr. and Process engineering Mgr. This accounts for a multy disciplinary expertise for business analitycs.
 Strong technical skills in Python, R, and other programming, markup and query languages, with long experience managing teams.
 I am currently looking for a challenging and rewarding opportunity to use my skills and experience in data analytics to add value and make an impact
 
-<hr size="3" nonshade>
+---
+### __Strenghts__   
+- Multidisciplinary industrial and corporate experience.   
+- Fluent in several coding languages.   
+- Skilled in multiple data analytics tools.   
+- Strong Manth, science an engineering background.   
+- Proven team player and manager.   
 
-<hr size="3" nonshade>
+### Projects in coding and data analytics.
+- **India solar powerplants data analysis:**  &nbsp;   Proved statisticly that weather forecasts can be used to predict future power outputs using the powerplant data and machine learning. Also developed performance indicators for the solar power plant.   [click here to see the analysis](https://www.kaggle.com/code/elbiopea/solar-power-plant-time-series-analysis-v5-01-22)    
+- **chemeq:** &nbsp; Python library for balancing chemical equations and calculates molecular weights for all reactants and products. The required imput is a single string representing the chemical equation.     
+- **springs add-on:** &nbsp;
+
+- <hr size="3" nonshade>
 <p align="center">
  <img alt="swiss knife" src="https://user-images.githubusercontent.com/110791809/201522585-06804049-f418-441a-a73a-847abc462f73.gif" width="80" height="43">
  <img alt="title" src="https://user-images.githubusercontent.com/110791809/202304398-175faff1-974f-4c63-9040-a5aed3ee955e.png">
@@ -60,14 +72,14 @@ I am currently looking for a challenging and rewarding opportunity to use my ski
   <img alt="creativity" src="https://user-images.githubusercontent.com/110791809/203871157-15492662-8fd4-4156-bbe5-b48ac669b346.png" width=140 height=50>
   <img alt= "presentation" src="https://user-images.githubusercontent.com/110791809/203871126-37d441f6-bd3e-41f3-a402-5f016bb6b57a.png" width=60 height=60>
   <img alt="<--" src="https://user-images.githubusercontent.com/110791809/203850864-91eaf9f2-e39b-44a8-bfa9-197581d1890c.png" width=80 height=60>
-  <img alt="tableau" src="https://user-images.githubusercontent.com/110791809/203870750-8a35bb8b-e3b3-4ea4-b7fb-86725562f746.png" width=50 height=50> 
-  <img alt="DALL-E" src= "https://user-images.githubusercontent.com/110791809/225645360-91bfeb55-e2b3-41c6-a98b-76b3d4eb8676.png" width=90 height=50>
-  <img alt="Inkscape" src="https://user-images.githubusercontent.com/110791809/204020189-7ab848f5-c6bc-450b-8efa-544b994c9b75.png" width=55 height=55>
-  <img alt="photoshop" src="https://user-images.githubusercontent.com/110791809/203870790-2aad7b38-2725-4f90-8558-e019573575c5.png" width=55 height=55>
-  <img alt="Blender" src="https://user-images.githubusercontent.com/110791809/203870840-82bb01cd-024a-4968-bf34-e97ce5193f02.png" width=55 height=60>
-  <img alt="Solidworks" src="https://user-images.githubusercontent.com/110791809/203870873-35d3e1f8-9bbe-4ae9-8b62-adb500c8b9c0.png" width=50 height=55>
-  <img alt="premierepro" src="https://user-images.githubusercontent.com/110791809/203870888-a2f9478f-3a87-4df7-968b-6bd26cfc49db.png" width=50 height=55>
-  <img alt="G-Earth" src="https://user-images.githubusercontent.com/110791809/203857651-1a917753-04a5-4015-aa69-86808c97c65b.png" width=50 height=55>
+  <img alt="tableau" src="https://user-images.githubusercontent.com/110791809/203870750-8a35bb8b-e3b3-4ea4-b7fb-86725562f746.png" width=50 height=53> 
+  <img alt="DALL-E" src= "https://user-images.githubusercontent.com/110791809/225645360-91bfeb55-e2b3-41c6-a98b-76b3d4eb8676.png" width=105 height=50>
+  <img alt="Inkscape" src="https://user-images.githubusercontent.com/110791809/204020189-7ab848f5-c6bc-450b-8efa-544b994c9b75.png" width=55 height=53>
+  <img alt="photoshop" src="https://user-images.githubusercontent.com/110791809/203870790-2aad7b38-2725-4f90-8558-e019573575c5.png" width=55 height=53>
+  <img alt="Blender" src="https://user-images.githubusercontent.com/110791809/203870840-82bb01cd-024a-4968-bf34-e97ce5193f02.png" width=55 height=57>
+  <img alt="Solidworks" src="https://user-images.githubusercontent.com/110791809/203870873-35d3e1f8-9bbe-4ae9-8b62-adb500c8b9c0.png" width=50 height=53>
+  <img alt="premierepro" src="https://user-images.githubusercontent.com/110791809/203870888-a2f9478f-3a87-4df7-968b-6bd26cfc49db.png" width=50 height=53>
+  <img alt="G-Earth" src="https://user-images.githubusercontent.com/110791809/203857651-1a917753-04a5-4015-aa69-86808c97c65b.png" width=50 height=53>
 </p>
 </div> 
 <hr size="3" nonshade>
