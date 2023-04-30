@@ -14,9 +14,9 @@ I am currently looking for a challenging and rewarding opportunity to use my ski
 - Proven team player and manager.   
 
 ### Projects in coding and data analytics.
-- **India solar powerplants data analysis:**  &nbsp;   Proved statisticly that weather forecasts can be used to predict future power outputs using the powerplant data and machine learning. Also developed performance indicators for the solar power plant.   [click here to see the analysis](https://www.kaggle.com/code/elbiopea/solar-power-plant-time-series-analysis-v5-01-22)    
-- **chemeq:** &nbsp; Python library for balancing chemical equations and calculates molecular weights for all reactants and products. The required imput is a single string representing the chemical equation.     
-- **springs add-on:** &nbsp;
+- **India solar powerplants data analysis:**  &nbsp;   Proved statisticly that weather forecasts can be used to predict future power outputs using the powerplant data and machine learning. Also developed performance indicators for the solar power plant.   [(click here to see the analysis)](https://www.kaggle.com/code/elbiopea/solar-power-plant-time-series-analysis-v5-01-22)    
+- **chemeq:** &nbsp; Python library for balancing chemical equations and calculates molecular weights for all reactants and products. The required imput is a single string representing the chemical equation. Available through: ```pip install chemeq```. [(click here to view repo)](https://github.com/elbiop/chemeq)   
+- **springs add-on:** &nbsp; Add-on for [Blender](blender.org) Capable of generating 3D meshes of three types of springs: compression, tension with hook terminals, and extension with loop terminals. they are generated **_animation ready_** with bone armatures and 4 PBR materials. [click here to view repo](https://github.com/elbiop/springs_add_on)   
 
 - <hr size="3" nonshade>
 <p align="center">
