@@ -23,6 +23,8 @@ I am currently looking for a challenging and rewarding opportunity to use my ski
  <img alt="swiss knife" src="https://user-images.githubusercontent.com/110791809/201522585-06804049-f418-441a-a73a-847abc462f73.gif" width="80" height="43">
  <img alt="title" src="https://user-images.githubusercontent.com/110791809/202304398-175faff1-974f-4c63-9040-a5aed3ee955e.png">
  <img alt="swiss knife" src="https://user-images.githubusercontent.com/110791809/201522585-06804049-f418-441a-a73a-847abc462f73.gif" width="80" height="43" >
+<br>
+This is a sample of the tools I master. I continually improve my skills on those shown and add new ones.
 </p>
 <div  align="center" backgroun="#ccddcc"> 
 <p>
