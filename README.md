@@ -5,20 +5,7 @@ Engineer with 10+ years developing monitoring, reporting and improving KPI's in 
 Strong technical skills in Python, R, and other programming, markup and query languages, with long experience managing teams.
 I am currently looking for a challenging and rewarding opportunity to use my skills and experience in data analytics to add value and make an impact
 
----
-### __Strenghts__   
-- Multidisciplinary industrial and corporate experience.   
-- Fluent in several coding languages.   
-- Skilled in multiple data analytics tools.   
-- Strong Manth, science an engineering background.   
-- Proven team player and manager.   
-
-### Projects in coding and data analytics.
-- **India solar powerplants data analysis:**  &nbsp;   Proved statisticly that weather forecasts can be used to predict future power outputs using the powerplant data and machine learning. Also developed performance indicators for the solar power plant.   [(click here to see the analysis)](https://www.kaggle.com/code/elbiopea/solar-power-plant-time-series-analysis-v5-01-22)    
-- **chemeq:** &nbsp; Python library for balancing chemical equations and calculates molecular weights for all reactants and products. The required imput is a single string representing the chemical equation. Available through: ```pip install chemeq```. [(click here to view repo)](https://github.com/elbiop/chemeq)   
-- **springs add-on:** &nbsp; Add-on for [Blender](blender.org) Capable of generating 3D meshes of three types of springs: compression, tension with hook terminals, and extension with loop terminals. they are generated **_animation ready_** with bone armatures and 4 PBR materials. [click here to view repo](https://github.com/elbiop/springs_add_on)   
-- **Others:** &nbsp; I have other works and practices in [kaggle](https://www.kaggle.com/code/elbiopea) and others can be located in my repositories here in github please take a look. For more about my experience and profile please visit [linkedin](https://linkedin.com/in/ingeniero-elbio-peña)
-<hr size="3" nonshade>
+hr size="3" nonshade>
 <p align="center">
  <img alt="swiss knife" src="https://user-images.githubusercontent.com/110791809/201522585-06804049-f418-441a-a73a-847abc462f73.gif" width="80" height="43">
  <img alt="title" src="https://user-images.githubusercontent.com/110791809/202304398-175faff1-974f-4c63-9040-a5aed3ee955e.png">
