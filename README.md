@@ -1,4 +1,4 @@
-# Elbio Peña   
+# Elbio Peña     
 ---   
 
 Engineer with 10+ years developing monitoring, reporting and improving KPI's in the plastics, electronics and consumer goods industries. Performing in the positions of Maintenance Mgr. Production Mgr. and Process engineering Mgr. This accounts for a multy disciplinary expertise for business analitycs.
